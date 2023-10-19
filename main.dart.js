@@ -77588,7 +77588,7 @@ A.Bb.prototype={
 a0O(){var s,r,q,p,o=this
 if(o.d.gL().yu()){s=o.e.a.a
 r=B.d.a4(A.amj(o.f.a.a),2)
-q=A.ao4("yyyy-MM-dd-hh-mm-ss-a").rh(new A.cR(Date.now(),!1))
+q=A.ao4("hh-mm-a").rh(new A.cR(Date.now(),!1))
 p=o.r
 o.x="upi://pay?pa=sulthanbatheryscb@icici&pn="+p+"&am="+r+"&tid=A0a"+p+"-"+s+"-"+q
 o.ae(new A.aeu(o))}},
