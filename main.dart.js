@@ -77988,7 +77988,7 @@ s=B.d.a4(A.amN(q.x.a.a),2)
 A.aoy("hh-mm-a").rn(new A.cS(Date.now(),!1))
 r=q.a16()
 q.f=r
-q.Q="upi://pay?pa=sulthanbatheryscb@icici&pn="+q.y+"&am="+s+"&tid=A"+r
+q.Q="upi://pay?pa=sulthanbatheryscb@icici&pn="+q.y+"&am="+s+"&tr=EZYS9288556791&tid=A"+r
 q.ae(new A.aeX(q))}},
 uG(){var s=0,r=A.Q(t.z),q=this,p,o,n,m,l,k,j,i
 var $async$uG=A.R(function(a,b){if(a===1)return A.N(b,r)
