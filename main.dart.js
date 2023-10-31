@@ -77997,7 +77997,7 @@ r=p.y
 if(r==="ShopPS")q="EZYS9288556791"
 else if(r==="ShopBS")q="EZYS9495858807"
 else if(r==="ShopHP")q="HP"
-else q=r==="Shop VD"?"VD":""
+else q=r==="Shop VD"?"EZYS9605165108":""
 r=p.a16()
 p.f=r
 p.Q="upi://pay?pa=sulthanbatheryscb@icici&pn="+p.y+"&am="+s+"&tr="+q+"&tid=A"+r
@@ -78008,7 +78008,7 @@ while(true)switch(s){case 0:s=q.r.gL().yD()?2:3
 break
 case 2:p=q.w.a.a
 o=B.d.a4(A.amU(q.x.a.a),2)
-n=A.XJ("yyyy-MM-dd").mj(new A.cz(Date.now(),!1))
+n=A.XJ("dd-MM-yyy").mj(new A.cz(Date.now(),!1))
 m=A.XJ("hh:mm:ss-a").mj(new A.cz(Date.now(),!1))
 l=q.y
 q.Q="upi://pay?pa=sulthanbatheryscb@icici&pn="+l+"&am="+o+"&tid=A0a"+l+"-"+p+"-"+m+"-"+n
