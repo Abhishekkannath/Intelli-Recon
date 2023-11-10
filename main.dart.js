@@ -78409,7 +78409,7 @@ q.Q="upi://pay?pa=sulthanbatheryscb@icici&pn="+l+"&am="+o+"&tid=A0a"+l+"-"+p+"-"
 k=q.f
 j=q.as?"Completed(Manual)":""
 i=t.N
-h=A.aq(["Date",n,"Time",m,"Bill Number",p,"Amount",o,"Shop",l,"UPI","sulthanbatheryscb@icici","Random uniq","A"+k,"Status",j],i,i)
+h=A.aq(["Date",n,"Time",m,"Bill Number",p,"Amount",o,"Shop",l,"UPI","sulthanbatheryscb@icici","Intellijohn code","A"+k,"Status",j],i,i)
 i=q.a.c
 g=i.y
 if(g===$)g=i.y=new A.aaS(i)
