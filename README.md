@@ -1,4 +1,4 @@
-# UPI QR Code Payment App
+# RECON QR Code Payment App
 
 This Flutter app allows users to make payments via UPI by scanning QR codes. The app is designed to simplify the payment process while also providing features that assist with transaction reconciliation.
 
